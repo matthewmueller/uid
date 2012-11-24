@@ -6,6 +6,9 @@ module.exports = uid;
 
 /**
  * Create a `uid`
+ *
+ * @param {String} len
+ * @return {String} uid
  */
 
 function uid(len) {
