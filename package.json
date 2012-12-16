@@ -1,0 +1,21 @@
+{
+  "name": "uid",
+  "version": "0.0.1",
+  "description": "generate unique ids of variable length",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/uid.git"
+  },
+  "keywords": [
+    "unique",
+    "id",
+    "uid"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT",
+  "readmeFilename": "Readme.md"
+}
