@@ -9,7 +9,7 @@
 
     $ component install matthewmueller/uid
 
-### Using node.js
+### Using node.js:
 
     $ npm install uid
 
