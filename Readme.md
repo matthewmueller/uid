@@ -7,10 +7,6 @@
 
 ## Installation
 
-### In the browser, using component:
-
-    $ component install matthewmueller/uid
-
 ### Using node.js:
 
     $ npm install uid
