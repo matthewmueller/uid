@@ -1,6 +1,6 @@
-# uid
-
 ⚠️ This module is very old and doesn't work properly on Node 8+. Please use [foid by Luke Edwards](https://github.com/lukeed/foid) instead.
+
+# uid
 
 Generate unique ids of any length.
 
